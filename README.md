@@ -1,3 +1,4 @@
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 # Olá, me chamo Enzo Feltrin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
@@ -57,6 +58,7 @@ Tenho 18 anos e sou estudante de análise de desenvolvimento de sistemas, atualm
 </div>
 
 ## 📄 Meu Currículo
+[Curriculo FullStack](https://github.com/user-attachments/files/19456932/Curriculo_FullStack.pdf)
 
 ## 📬 Me contate
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzofeltrin/)
